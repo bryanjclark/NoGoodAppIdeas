@@ -8,20 +8,62 @@
 
 /* Begin PBXBuildFile section */
 		933DC97922B4394A00A3F605 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933DC97822B4394A00A3F605 /* AppDelegate.swift */; };
-		933DC97B22B4394A00A3F605 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933DC97A22B4394A00A3F605 /* ViewController.swift */; };
 		933DC97E22B4394A00A3F605 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 933DC97C22B4394A00A3F605 /* Main.storyboard */; };
 		933DC98022B4394C00A3F605 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 933DC97F22B4394C00A3F605 /* Assets.xcassets */; };
 		933DC98322B4394C00A3F605 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 933DC98122B4394C00A3F605 /* LaunchScreen.storyboard */; };
+		93945F3822B446920076E553 /* ThatIsAGoodIdea.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2422B446900076E553 /* ThatIsAGoodIdea.wav */; };
+		93945F3922B446920076E553 /* TooSmaller.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2522B446900076E553 /* TooSmaller.wav */; };
+		93945F3A22B446920076E553 /* YourMotherInLaw.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2622B446900076E553 /* YourMotherInLaw.wav */; };
+		93945F3B22B446920076E553 /* NowYouHaveToMarry.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2722B446900076E553 /* NowYouHaveToMarry.wav */; };
+		93945F3C22B446920076E553 /* ICannotThink.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2822B446900076E553 /* ICannotThink.wav */; };
+		93945F3D22B446920076E553 /* AGoodSteeringWheel.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2922B446900076E553 /* AGoodSteeringWheel.wav */; };
+		93945F3E22B446920076E553 /* IThinkItsAGoodIdea.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2A22B446900076E553 /* IThinkItsAGoodIdea.wav */; };
+		93945F3F22B446920076E553 /* NoGoodCarIdeas.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2B22B446900076E553 /* NoGoodCarIdeas.wav */; };
+		93945F4022B446920076E553 /* TooSmall.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2C22B446910076E553 /* TooSmall.wav */; };
+		93945F4122B446920076E553 /* HeAdmitIt.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2D22B446910076E553 /* HeAdmitIt.wav */; };
+		93945F4222B446920076E553 /* BestAtThis.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2E22B446910076E553 /* BestAtThis.wav */; };
+		93945F4322B446920076E553 /* NoSpaceForMother.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F2F22B446910076E553 /* NoSpaceForMother.wav */; };
+		93945F4422B446920076E553 /* AGreatSteeringWheel.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3022B446910076E553 /* AGreatSteeringWheel.wav */; };
+		93945F4522B446920076E553 /* WhatAboutIfItsStinky.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3122B446910076E553 /* WhatAboutIfItsStinky.wav */; };
+		93945F4622B446920076E553 /* ShutUpPaul.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3222B446910076E553 /* ShutUpPaul.wav */; };
+		93945F4722B446920076E553 /* YouSuck.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3322B446910076E553 /* YouSuck.wav */; };
+		93945F4822B446920076E553 /* OhNice.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3422B446910076E553 /* OhNice.wav */; };
+		93945F4922B446920076E553 /* TeachersPet.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3522B446910076E553 /* TeachersPet.wav */; };
+		93945F4A22B446920076E553 /* Stinky.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3622B446920076E553 /* Stinky.wav */; };
+		93945F4B22B446920076E553 /* ImSorry.wav in Resources */ = {isa = PBXBuildFile; fileRef = 93945F3722B446920076E553 /* ImSorry.wav */; };
+		93AAA61622B439D200A949B9 /* SoundEffectsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AAA61522B439D200A949B9 /* SoundEffectsListView.swift */; };
+		93AAA61822B439E900A949B9 /* SoundEffectsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AAA61722B439E900A949B9 /* SoundEffectsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		933DC97522B4394A00A3F605 /* NoGoodAppIdeas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoGoodAppIdeas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		933DC97822B4394A00A3F605 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		933DC97A22B4394A00A3F605 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		933DC97D22B4394A00A3F605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		933DC97F22B4394C00A3F605 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		933DC98222B4394C00A3F605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		933DC98422B4394C00A3F605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93945F2422B446900076E553 /* ThatIsAGoodIdea.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ThatIsAGoodIdea.wav; sourceTree = "<group>"; };
+		93945F2522B446900076E553 /* TooSmaller.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = TooSmaller.wav; sourceTree = "<group>"; };
+		93945F2622B446900076E553 /* YourMotherInLaw.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = YourMotherInLaw.wav; sourceTree = "<group>"; };
+		93945F2722B446900076E553 /* NowYouHaveToMarry.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = NowYouHaveToMarry.wav; sourceTree = "<group>"; };
+		93945F2822B446900076E553 /* ICannotThink.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ICannotThink.wav; sourceTree = "<group>"; };
+		93945F2922B446900076E553 /* AGoodSteeringWheel.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = AGoodSteeringWheel.wav; sourceTree = "<group>"; };
+		93945F2A22B446900076E553 /* IThinkItsAGoodIdea.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = IThinkItsAGoodIdea.wav; sourceTree = "<group>"; };
+		93945F2B22B446900076E553 /* NoGoodCarIdeas.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = NoGoodCarIdeas.wav; sourceTree = "<group>"; };
+		93945F2C22B446910076E553 /* TooSmall.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = TooSmall.wav; sourceTree = "<group>"; };
+		93945F2D22B446910076E553 /* HeAdmitIt.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HeAdmitIt.wav; sourceTree = "<group>"; };
+		93945F2E22B446910076E553 /* BestAtThis.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BestAtThis.wav; sourceTree = "<group>"; };
+		93945F2F22B446910076E553 /* NoSpaceForMother.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = NoSpaceForMother.wav; sourceTree = "<group>"; };
+		93945F3022B446910076E553 /* AGreatSteeringWheel.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = AGreatSteeringWheel.wav; sourceTree = "<group>"; };
+		93945F3122B446910076E553 /* WhatAboutIfItsStinky.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = WhatAboutIfItsStinky.wav; sourceTree = "<group>"; };
+		93945F3222B446910076E553 /* ShutUpPaul.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ShutUpPaul.wav; sourceTree = "<group>"; };
+		93945F3322B446910076E553 /* YouSuck.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = YouSuck.wav; sourceTree = "<group>"; };
+		93945F3422B446910076E553 /* OhNice.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = OhNice.wav; sourceTree = "<group>"; };
+		93945F3522B446910076E553 /* TeachersPet.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = TeachersPet.wav; sourceTree = "<group>"; };
+		93945F3622B446920076E553 /* Stinky.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Stinky.wav; sourceTree = "<group>"; };
+		93945F3722B446920076E553 /* ImSorry.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ImSorry.wav; sourceTree = "<group>"; };
+		93AAA61522B439D200A949B9 /* SoundEffectsListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundEffectsListView.swift; sourceTree = "<group>"; };
+		93AAA61722B439E900A949B9 /* SoundEffectsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundEffectsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +82,7 @@
 			children = (
 				933DC97722B4394A00A3F605 /* NoGoodAppIdeas */,
 				933DC97622B4394A00A3F605 /* Products */,
+				D31CA0C47815E8BF6D259EAF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +98,49 @@
 			isa = PBXGroup;
 			children = (
 				933DC97822B4394A00A3F605 /* AppDelegate.swift */,
-				933DC97A22B4394A00A3F605 /* ViewController.swift */,
+				93AAA61522B439D200A949B9 /* SoundEffectsListView.swift */,
+				93AAA61722B439E900A949B9 /* SoundEffectsManager.swift */,
 				933DC97C22B4394A00A3F605 /* Main.storyboard */,
+				93945F4C22B446970076E553 /* Sound Effects */,
 				933DC97F22B4394C00A3F605 /* Assets.xcassets */,
 				933DC98122B4394C00A3F605 /* LaunchScreen.storyboard */,
 				933DC98422B4394C00A3F605 /* Info.plist */,
 			);
 			path = NoGoodAppIdeas;
+			sourceTree = "<group>";
+		};
+		93945F4C22B446970076E553 /* Sound Effects */ = {
+			isa = PBXGroup;
+			children = (
+				93945F2922B446900076E553 /* AGoodSteeringWheel.wav */,
+				93945F3022B446910076E553 /* AGreatSteeringWheel.wav */,
+				93945F2E22B446910076E553 /* BestAtThis.wav */,
+				93945F2D22B446910076E553 /* HeAdmitIt.wav */,
+				93945F2822B446900076E553 /* ICannotThink.wav */,
+				93945F3722B446920076E553 /* ImSorry.wav */,
+				93945F2A22B446900076E553 /* IThinkItsAGoodIdea.wav */,
+				93945F2B22B446900076E553 /* NoGoodCarIdeas.wav */,
+				93945F2F22B446910076E553 /* NoSpaceForMother.wav */,
+				93945F2722B446900076E553 /* NowYouHaveToMarry.wav */,
+				93945F3422B446910076E553 /* OhNice.wav */,
+				93945F3222B446910076E553 /* ShutUpPaul.wav */,
+				93945F3622B446920076E553 /* Stinky.wav */,
+				93945F3522B446910076E553 /* TeachersPet.wav */,
+				93945F2422B446900076E553 /* ThatIsAGoodIdea.wav */,
+				93945F2C22B446910076E553 /* TooSmall.wav */,
+				93945F2522B446900076E553 /* TooSmaller.wav */,
+				93945F3122B446910076E553 /* WhatAboutIfItsStinky.wav */,
+				93945F2622B446900076E553 /* YourMotherInLaw.wav */,
+				93945F3322B446910076E553 /* YouSuck.wav */,
+			);
+			path = "Sound Effects";
+			sourceTree = "<group>";
+		};
+		D31CA0C47815E8BF6D259EAF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +201,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93945F3A22B446920076E553 /* YourMotherInLaw.wav in Resources */,
+				93945F3B22B446920076E553 /* NowYouHaveToMarry.wav in Resources */,
 				933DC98322B4394C00A3F605 /* LaunchScreen.storyboard in Resources */,
+				93945F4922B446920076E553 /* TeachersPet.wav in Resources */,
+				93945F4122B446920076E553 /* HeAdmitIt.wav in Resources */,
+				93945F3822B446920076E553 /* ThatIsAGoodIdea.wav in Resources */,
+				93945F3E22B446920076E553 /* IThinkItsAGoodIdea.wav in Resources */,
 				933DC98022B4394C00A3F605 /* Assets.xcassets in Resources */,
+				93945F4222B446920076E553 /* BestAtThis.wav in Resources */,
 				933DC97E22B4394A00A3F605 /* Main.storyboard in Resources */,
+				93945F4722B446920076E553 /* YouSuck.wav in Resources */,
+				93945F4322B446920076E553 /* NoSpaceForMother.wav in Resources */,
+				93945F4522B446920076E553 /* WhatAboutIfItsStinky.wav in Resources */,
+				93945F3C22B446920076E553 /* ICannotThink.wav in Resources */,
+				93945F3D22B446920076E553 /* AGoodSteeringWheel.wav in Resources */,
+				93945F4622B446920076E553 /* ShutUpPaul.wav in Resources */,
+				93945F3F22B446920076E553 /* NoGoodCarIdeas.wav in Resources */,
+				93945F4822B446920076E553 /* OhNice.wav in Resources */,
+				93945F4A22B446920076E553 /* Stinky.wav in Resources */,
+				93945F4422B446920076E553 /* AGreatSteeringWheel.wav in Resources */,
+				93945F3922B446920076E553 /* TooSmaller.wav in Resources */,
+				93945F4B22B446920076E553 /* ImSorry.wav in Resources */,
+				93945F4022B446920076E553 /* TooSmall.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +234,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				933DC97B22B4394A00A3F605 /* ViewController.swift in Sources */,
+				93AAA61622B439D200A949B9 /* SoundEffectsListView.swift in Sources */,
 				933DC97922B4394A00A3F605 /* AppDelegate.swift in Sources */,
+				93AAA61822B439E900A949B9 /* SoundEffectsManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
